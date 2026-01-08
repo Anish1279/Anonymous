@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anish1279/Anonymous/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anish1279/Anonymous/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Array
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Anish1279/Anonymous/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Anish1279/Anonymous/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
