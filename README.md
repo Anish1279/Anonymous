@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anish1279/Anonymous/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Anish1279/Anonymous/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Greedy
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1975-maximum-matrix-sum](https://github.com/Anish1279/Anonymous/tree/master/1975-maximum-matrix-sum) |
+## String
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anish1279/Anonymous/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
