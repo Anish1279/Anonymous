@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Anish1279/Anonymous/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Anish1279/Anonymous/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Anish1279/Anonymous/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1895-largest-magic-square](https://github.com/Anish1279/Anonymous/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Anish1279/Anonymous/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anish1279/Anonymous/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anish1279/Anonymous/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Anish1279/Anonymous/tree/master/0085-maximal-rectangle) |
+| [1895-largest-magic-square](https://github.com/Anish1279/Anonymous/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Anish1279/Anonymous/tree/master/1975-maximum-matrix-sum) |
 ## String
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Anish1279/Anonymous/tree/master/3454-separate-squares-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/Anish1279/Anonymous/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
