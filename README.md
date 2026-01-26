@@ -86,6 +86,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anish1279/Anonymous/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Anish1279/Anonymous/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anish1279/Anonymous/tree/master/1266-minimum-time-visiting-all-points) |
@@ -158,6 +159,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anish1279/Anonymous/tree/master/0002-add-two-numbers) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -179,4 +181,8 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anish1279/Anonymous/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anish1279/Anonymous/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
