@@ -32,6 +32,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Anish1279/Anonymous/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Anish1279/Anonymous/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Anish1279/Anonymous/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Anish1279/Anonymous/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anish1279/Anonymous/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Anish1279/Anonymous/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -118,6 +119,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0756-pyramid-transition-matrix](https://github.com/Anish1279/Anonymous/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anish1279/Anonymous/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Anish1279/Anonymous/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anish1279/Anonymous/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Enumeration
