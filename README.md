@@ -44,6 +44,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1975-maximum-matrix-sum](https://github.com/Anish1279/Anonymous/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anish1279/Anonymous/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anish1279/Anonymous/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Anish1279/Anonymous/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anish1279/Anonymous/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anish1279/Anonymous/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -123,6 +124,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1200-minimum-absolute-difference](https://github.com/Anish1279/Anonymous/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Anish1279/Anonymous/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anish1279/Anonymous/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Anish1279/Anonymous/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anish1279/Anonymous/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Anish1279/Anonymous/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -133,6 +135,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anish1279/Anonymous/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anish1279/Anonymous/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anish1279/Anonymous/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -171,6 +174,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Anish1279/Anonymous/tree/master/2169-count-operations-to-obtain-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
