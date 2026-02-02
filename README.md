@@ -31,6 +31,7 @@ Practice of LeetCode questions to ace the coding interview!
 | ------- |
 | [0066-plus-one](https://github.com/Anish1279/Anonymous/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Anish1279/Anonymous/tree/master/0085-maximal-rectangle) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anish1279/Anonymous/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anish1279/Anonymous/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Anish1279/Anonymous/tree/master/1200-minimum-absolute-difference) |
@@ -111,6 +112,7 @@ Practice of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anish1279/Anonymous/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Anish1279/Anonymous/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Anish1279/Anonymous/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3453-separate-squares-i](https://github.com/Anish1279/Anonymous/tree/master/3453-separate-squares-i) |
