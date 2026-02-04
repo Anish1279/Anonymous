@@ -107,6 +107,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Anish1279/Anonymous/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Anish1279/Anonymous/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Anish1279/Anonymous/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anish1279/Anonymous/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Anish1279/Anonymous/tree/master/1390-four-divisors) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anish1279/Anonymous/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -145,6 +146,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [0840-magic-squares-in-grid](https://github.com/Anish1279/Anonymous/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anish1279/Anonymous/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anish1279/Anonymous/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Anish1279/Anonymous/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anish1279/Anonymous/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
