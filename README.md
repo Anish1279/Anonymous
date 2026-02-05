@@ -57,6 +57,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3074-apple-redistribution-into-boxes](https://github.com/Anish1279/Anonymous/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anish1279/Anonymous/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/Anish1279/Anonymous/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Anish1279/Anonymous/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Anish1279/Anonymous/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -189,6 +190,7 @@ Practice of LeetCode questions to ace the coding interview!
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Anish1279/Anonymous/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Anish1279/Anonymous/tree/master/2169-count-operations-to-obtain-zero) |
+| [3379-transformed-array](https://github.com/Anish1279/Anonymous/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
