@@ -197,6 +197,7 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anish1279/Anonymous/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Anish1279/Anonymous/tree/master/0190-reverse-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Anish1279/Anonymous/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Anish1279/Anonymous/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -267,4 +268,8 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Anish1279/Anonymous/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Anish1279/Anonymous/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
