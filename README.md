@@ -69,6 +69,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Anish1279/Anonymous/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anish1279/Anonymous/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Anish1279/Anonymous/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3583-count-special-triplets](https://github.com/Anish1279/Anonymous/tree/master/3583-count-special-triplets) |
+| [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Anish1279/Anonymous/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 ## Sweep Line
 |  |
 | ------- |
@@ -189,6 +192,7 @@ Practice of LeetCode questions to ace the coding interview!
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Anish1279/Anonymous/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Anish1279/Anonymous/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/Anish1279/Anonymous/tree/master/2536-increment-submatrices-by-one) |
+| [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -272,4 +276,5 @@ Practice of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Anish1279/Anonymous/tree/master/0190-reverse-bits) |
+| [3719-longest-balanced-subarray-i](https://github.com/Anish1279/Anonymous/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
